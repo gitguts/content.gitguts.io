@@ -1,3 +1,6 @@
 [submodule "books/introduction-prework"]
 	path = books/introduction-prework
 	url = git@github.com:gitguts/gitbook-introduction-prework.git
+[submodule "books/repository-prework"]
+	path = books/repository-prework
+	url = git@github.com:gitguts/gitbook-repository-prework.git
