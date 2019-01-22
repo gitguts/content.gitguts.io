@@ -1,0 +1,13 @@
+{
+  "books": [{
+    "source": "books/introduction-prework",
+    "dest": "introduction-prework"
+  }, {
+    "source": "books/repository-prework",
+    "dest": "repository-prework"
+  }, {
+    "source": "books/repository",
+    "dest": "repository"
+  }],
+  "dist": "dist"
+}
