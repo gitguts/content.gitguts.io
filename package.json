@@ -1,0 +1,23 @@
+{
+  "name": "content.gitguts.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild:introduction-prework": "mkdir --parents dist",
+    "build:introduction-prework": "cd books/introduction-prework/ && node ../../node_modules/gitbook-cli/bin/gitbook install && node ../../node_modules/gitbook-cli/bin/gitbook build && cp -r _book ../../dist/introduction-prework"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitguts/content.gitguts.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitguts/content.gitguts.io/issues"
+  },
+  "homepage": "https://github.com/gitguts/content.gitguts.io#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
