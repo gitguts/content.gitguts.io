@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prebuild:introduction-prework": "mkdir --parents dist",
-    "build:introduction-prework": "cd books/introduction-prework/ && node ../../node_modules/gitbook-cli/bin/gitbook install && node ../../node_modules/gitbook-cli/bin/gitbook build && cp -r _book ../../dist/introduction-prework"
+    "build": "node node_modules/gitbook-multi-build/bin/index build books.json"
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,6 @@
   },
   "homepage": "https://github.com/gitguts/content.gitguts.io#readme",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-multi-build": "git+https://github.com/Smoczysko/gitbook-multi-build.git#master"
   }
 }
