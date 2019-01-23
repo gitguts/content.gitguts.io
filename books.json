@@ -1,5 +1,8 @@
 {
   "books": [{
+    "source": "books/introduction",
+    "dest": "introduction"
+  },{
     "source": "books/introduction-prework",
     "dest": "introduction-prework"
   }, {
