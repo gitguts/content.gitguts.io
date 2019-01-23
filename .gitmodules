@@ -7,3 +7,6 @@
 [submodule "books/repository"]
 	path = books/repository
 	url = https://github.com/gitguts/gitbook-repository.git
+[submodule "books/introduction"]
+	path = books/introduction
+	url = https://github.com/gitguts/gitbook-introduction.git
