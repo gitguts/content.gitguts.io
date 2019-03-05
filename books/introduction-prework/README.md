@@ -17,4 +17,4 @@
 ```
 
 
-### https://smoczysko.gitbooks.io/git-guts-introduction-prework/content/
+### https://content.gitguts.io/introduction-prework

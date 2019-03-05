@@ -17,4 +17,4 @@
 ```
 
 
-### https://smoczysko.gitbooks.io/git-guts-building-repository-from-scratch/content/
+### https://content.gitguts.io/repository
