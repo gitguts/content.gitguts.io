@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/gitguts/content.gitguts.io#readme",
   "dependencies": {
-    "gitbook-multi-build": "git+https://github.com/Smoczysko/gitbook-multi-build.git#master"
+    "gitbook-multi-build": "^1.0.1"
   }
 }

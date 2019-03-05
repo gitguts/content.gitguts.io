@@ -1,16 +1,16 @@
 {
   "books": [{
     "source": "books/introduction",
-    "dest": "introduction"
+    "destination": "introduction"
   },{
     "source": "books/introduction-prework",
-    "dest": "introduction-prework"
+    "destination": "introduction-prework"
   }, {
     "source": "books/repository-prework",
-    "dest": "repository-prework"
+    "destination": "repository-prework"
   }, {
     "source": "books/repository",
-    "dest": "repository"
+    "destination": "repository"
   }],
-  "dist": "dist"
+  "output": "dist"
 }
