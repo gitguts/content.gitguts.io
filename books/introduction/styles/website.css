@@ -20,7 +20,8 @@ p {
 
 .image-wrapper.content-scm,
 .image-wrapper.content-files,
-.image-wrapper.content-reset {
+.image-wrapper.content-reset,
+.image-wrapper.content-remote {
     max-width: 100%;
 }
 
