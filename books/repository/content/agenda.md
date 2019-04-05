@@ -7,4 +7,3 @@ Naszym dzisiejszym celem jest:
 * pierwszy (root) commit
 * stworzenie nowej gałęzi (branch)
 * praca z tagami
-* tworzenie dziennika zdarzeń
