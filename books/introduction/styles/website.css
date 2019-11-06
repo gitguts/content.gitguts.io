@@ -3,6 +3,13 @@ h3#httpscontentgitgutsiointroduction {
     text-align: center;
 }
 
+a[href="https://www.gitguts.io"] {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
 div[class*="prework"] {
     max-width: 600px;
 }

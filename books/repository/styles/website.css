@@ -3,6 +3,13 @@ h3#httpscontentgitgutsiorepository {
     text-align: center;
 }
 
+a[href="https://www.gitguts.io"] {
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
 .image-wrapper.README {
     max-width: 500px;
     width: 100%;
